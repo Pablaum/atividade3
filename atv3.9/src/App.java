@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         int[] A = new int[6];
         int[] B = new int[6];
@@ -48,3 +48,4 @@ Scanner scanner = new Scanner(System.in);
         scanner.close();
     }
 }
+
